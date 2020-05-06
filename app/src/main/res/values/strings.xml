@@ -3,4 +3,6 @@
     <string name="user">Usuario</string>
     <string name="pass">Contraseña</string>
     <string name="iniciar">Iniciar sesión</string>
+    <string name="noacc">¿Olvidaste tu clave?</string>
+    <string name="registrar">registrar</string>
 </resources>
