@@ -40,7 +40,7 @@
             tools:layout_editor_absoluteY="46dp">
 
             <EditText
-                android:id="@+id/editText"
+                android:id="@+id/user"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
@@ -60,7 +60,7 @@
             tools:layout_editor_absoluteY="93dp">
 
             <EditText
-                android:id="@+id/editText2"
+                android:id="@+id/bPass"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"

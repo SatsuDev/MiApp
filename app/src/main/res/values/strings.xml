@@ -1,8 +1,12 @@
 <resources>
     <string name="app_name">Control de asistencias</string>
     <string name="user">Usuario</string>
+    <string name="mail">Correo</string>
     <string name="pass">Contraseña</string>
     <string name="iniciar">Iniciar sesión</string>
     <string name="noacc">¿Olvidaste tu clave?</string>
+    <string name="nuevo">¿No tienes cuenta?</string>
+    <string name="termino">Acepto los términos y condiciones de uso</string>
     <string name="registrar">registrar</string>
+    <string name="recover">recuperar</string>
 </resources>
