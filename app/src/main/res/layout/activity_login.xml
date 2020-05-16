@@ -6,7 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_gravity="center"
-    android:orientation="vertical"
     tools:context=".LoginActivity">
 
     <LinearLayout
@@ -99,8 +98,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/noacc"
-                android:onClick="Recover"
-                android:textAlignment="center" />
+                android:onClick="Recover" />
         </LinearLayout>
 
         <LinearLayout

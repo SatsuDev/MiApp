@@ -16,9 +16,11 @@ public class RecoverActivity extends AppCompatActivity {
     public void Loginback (View view) {
         Intent loginback = new Intent(this, LoginActivity.class);
         startActivity(loginback);
+        finish();
     }
     public void Register(View view) {
         Intent register = new Intent(this, RegisterActivity.class);
         startActivity(register);
+        finish();
     }
 }

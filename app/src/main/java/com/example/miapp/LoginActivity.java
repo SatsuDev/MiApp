@@ -24,15 +24,18 @@ public class LoginActivity extends AppCompatActivity {
     public void Login(View view) {
         Intent login = new Intent(this, MainActivity.class);
         startActivity(login);
+        finish();
     }
     public void Register(View view) {
         Intent register = new Intent(this, RegisterActivity.class);
         startActivity(register);
+        finish();
     }
     public void Recover (View view)
     {
         Intent recover = new Intent(this, RecoverActivity.class);
         startActivity(recover);
+        finish();
     }
 
 
